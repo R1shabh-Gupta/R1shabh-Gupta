@@ -12,7 +12,8 @@
   <img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=R1shabh-Gupta&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="R1shabh-Gupta" />
 </div>
 
-- 💼 Currently working as a web developer intern at **Tikaj Security**.
+- 💼 Currently working as a Research and Development Intern at **BMC Software**.
+- 👨🏻‍💻 Previously worked as a web developer intern at **Tikaj Security**.
 - 🎓 3rd-year Computer Science and Engineering student at Maharashtra Institute of Technology.
 - 📚 Interested in Machine Learning, AI, and MERN stack development.
 - 📫 How to reach me: [imailrishabhgupta@gmail.com](mailto:imailrishabhgupta@gmail.com)
