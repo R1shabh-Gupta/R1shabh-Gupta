@@ -13,7 +13,7 @@
 </div>
 
 - 💼 Currently working as a Associate Software Engineer at **rtCamp**.
-- 💼 Previously worked as a Research and Development Intern at **BMC Software**.
+- 👨🏻‍💻 Previously worked as a Research and Development Intern at **BMC Software**.
 - 🎓 Final year Computer Science and Engineering student at Maharashtra Institute of Technology.
 - 📚 Interested in Machine Learning, AI, and MERN stack development.
 - 📫 How to reach me: [imailrishabhgupta@gmail.com](mailto:imailrishabhgupta@gmail.com)
