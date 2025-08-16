@@ -3,18 +3,16 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhofficial/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/iam_r1shabh/)](https://www.instagram.com/iam_r1shabh)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:imailrishabhgupta@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rishabh-gupta.vercel.app/)](https://www.rishabhcodes.tech/)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.rishabhcodes.tech/)](https://www.rishabhcodes.tech/)
 [![Github](https://img.shields.io/github/followers/R1shabh-Gupta?label=Follow&style=social)](https://github.com/R1shabh-Gupta)
 
 <div>
   <img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=R1shabh-Gupta&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="R1shabh-Gupta" />
 </div>
 
-- 💼 Currently working as a Associate Software Engineer at **rtCamp**.
+- 💼 Currently working as a Software Engineer at **rtCamp**.
 - 👨🏻‍💻 Previously worked as a Research and Development Intern at **BMC Software**.
-- 🎓 Final year Computer Science and Engineering student at Maharashtra Institute of Technology.
 - 📚 Interested in Machine Learning, AI, and MERN stack development.
 - 📫 How to reach me: [imailrishabhgupta@gmail.com](mailto:imailrishabhgupta@gmail.com)
 
