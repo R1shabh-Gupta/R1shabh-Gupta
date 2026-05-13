@@ -7,10 +7,6 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.rishabhcodes.tech/)](https://www.rishabhcodes.tech/)
 [![Github](https://img.shields.io/github/followers/R1shabh-Gupta?label=Follow&style=social)](https://github.com/R1shabh-Gupta)
 
-<div>
-  <img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=R1shabh-Gupta&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="R1shabh-Gupta" />
-</div>
-
 - 💼 Currently working as a Software Engineer at **rtCamp**.
 - 👨🏻‍💻 Previously worked as a Research and Development Intern at **BMC Software**.
 - 📚 Interested in Machine Learning, AI, and MERN stack development.
